@@ -1,0 +1,7 @@
+{
+  "name": "Luganda Lexicon",
+  "description": "A comprehensive Luganda-English dictionary and language learning companion featuring audio pronunciations, phrasebooks, and interactive quizzes powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
